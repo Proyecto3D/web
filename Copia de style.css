@@ -1,0 +1,41 @@
+.fjalla-one-regular {
+    font-family: "Fjalla One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.noto-sans{
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+  
+
+
+.cover {
+    height: 600px;
+    background-image:url(https://cdn.glitch.global/2a890486-625b-48de-b5c6-906e8848a1e7/rsz_roman-kraft-_zua2hyvtbk-unsplash.jpg?v=1707425942145);
+    color: black;
+    background-size: cover;
+    background-position: center;
+}
+
+.cover-small{
+    height:200px;
+}
+
+
+.card {
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.card-title{
+    min-height:2.5rem;
+}
+
+.card-text{
+    min-height:10rem;
+}
