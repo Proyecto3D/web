@@ -1,0 +1,6 @@
+.cover {
+    height: 600px;
+    background-image:url(https://cdn.glitch.global/2a890486-625b-48de-b5c6-906e8848a1e7/rsz_roman-kraft-_zua2hyvtbk-unsplash.jpg?v=1707425942145);
+    color: white;
+    background-size: cover;
+}
